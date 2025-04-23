@@ -1,4 +1,4 @@
-# AutoTransferCSVtoJSON\
+# AutoTransferCSVtoJSON
 
 How to use:
 
